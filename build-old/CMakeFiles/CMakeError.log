@@ -1,0 +1,92 @@
+Determining if the include file iostream exists failed with the following output:
+Change Dir: /home/jose/Tesis/MyThesis/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec845491690/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec845491690.dir/build.make CMakeFiles/cmTryCompileExec845491690.dir/build
+make[1]: Entering directory '/home/jose/Tesis/MyThesis/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/jose/Tesis/MyThesis/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec845491690.dir/CheckIncludeFile.cxx.o
+/usr/bin/c++    -O3 -DNDEBUG -std=c++11 -lutil -lboost_iostreams -lboost_system -lboost_filesystem -pthread     -o CMakeFiles/cmTryCompileExec845491690.dir/CheckIncludeFile.cxx.o -c /home/jose/Tesis/MyThesis/build/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx
+Linking CXX executable cmTryCompileExec845491690
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec845491690.dir/link.txt --verbose=1
+/usr/bin/c++   -O3 -DNDEBUG -std=c++11 -lutil -lboost_iostreams -lboost_system -lboost_filesystem -pthread      CMakeFiles/cmTryCompileExec845491690.dir/CheckIncludeFile.cxx.o  -o cmTryCompileExec845491690 -rdynamic 
+/usr/bin/ld: cannot find -lboost_iostreams
+/usr/bin/ld: cannot find -lboost_system
+/usr/bin/ld: cannot find -lboost_filesystem
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTryCompileExec845491690.dir/build.make:88: recipe for target 'cmTryCompileExec845491690' failed
+make[1]: *** [cmTryCompileExec845491690] Error 1
+make[1]: Leaving directory '/home/jose/Tesis/MyThesis/build/CMakeFiles/CMakeTmp'
+Makefile:118: recipe for target 'cmTryCompileExec845491690/fast' failed
+make: *** [cmTryCompileExec845491690/fast] Error 2
+
+
+Determining if the CXX compiler has std namespace failed with the following output:
+Change Dir: /home/jose/Tesis/MyThesis/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec1211727695/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1211727695.dir/build.make CMakeFiles/cmTryCompileExec1211727695.dir/build
+make[1]: Entering directory '/home/jose/Tesis/MyThesis/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/jose/Tesis/MyThesis/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1211727695.dir/TestForSTDNamespace.cxx.o
+/usr/bin/c++    -O3 -DNDEBUG -std=c++11 -lutil -lboost_iostreams -lboost_system -lboost_filesystem -pthread     -o CMakeFiles/cmTryCompileExec1211727695.dir/TestForSTDNamespace.cxx.o -c /usr/share/cmake-3.0/Modules/TestForSTDNamespace.cxx
+Linking CXX executable cmTryCompileExec1211727695
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1211727695.dir/link.txt --verbose=1
+/usr/bin/c++   -O3 -DNDEBUG -std=c++11 -lutil -lboost_iostreams -lboost_system -lboost_filesystem -pthread      CMakeFiles/cmTryCompileExec1211727695.dir/TestForSTDNamespace.cxx.o  -o cmTryCompileExec1211727695 -rdynamic 
+/usr/bin/ld: cannot find -lboost_iostreams
+/usr/bin/ld: cannot find -lboost_system
+/usr/bin/ld: cannot find -lboost_filesystem
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTryCompileExec1211727695.dir/build.make:88: recipe for target 'cmTryCompileExec1211727695' failed
+make[1]: *** [cmTryCompileExec1211727695] Error 1
+make[1]: Leaving directory '/home/jose/Tesis/MyThesis/build/CMakeFiles/CMakeTmp'
+Makefile:118: recipe for target 'cmTryCompileExec1211727695/fast' failed
+make: *** [cmTryCompileExec1211727695/fast] Error 2
+
+
+Determining if the CXX compiler understands ansi for scopes failed with the following output:
+Change Dir: /home/jose/Tesis/MyThesis/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec492565999/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec492565999.dir/build.make CMakeFiles/cmTryCompileExec492565999.dir/build
+make[1]: Entering directory '/home/jose/Tesis/MyThesis/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/jose/Tesis/MyThesis/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec492565999.dir/TestForAnsiForScope.cxx.o
+/usr/bin/c++    -O3 -DNDEBUG -std=c++11 -lutil -lboost_iostreams -lboost_system -lboost_filesystem -pthread     -o CMakeFiles/cmTryCompileExec492565999.dir/TestForAnsiForScope.cxx.o -c /usr/share/cmake-3.0/Modules/TestForAnsiForScope.cxx
+Linking CXX executable cmTryCompileExec492565999
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec492565999.dir/link.txt --verbose=1
+/usr/bin/c++   -O3 -DNDEBUG -std=c++11 -lutil -lboost_iostreams -lboost_system -lboost_filesystem -pthread      CMakeFiles/cmTryCompileExec492565999.dir/TestForAnsiForScope.cxx.o  -o cmTryCompileExec492565999 -rdynamic 
+/usr/bin/ld: cannot find -lboost_iostreams
+/usr/bin/ld: cannot find -lboost_system
+/usr/bin/ld: cannot find -lboost_filesystem
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTryCompileExec492565999.dir/build.make:88: recipe for target 'cmTryCompileExec492565999' failed
+make[1]: Leaving directory '/home/jose/Tesis/MyThesis/build/CMakeFiles/CMakeTmp'
+make[1]: *** [cmTryCompileExec492565999] Error 1
+Makefile:118: recipe for target 'cmTryCompileExec492565999/fast' failed
+make: *** [cmTryCompileExec492565999/fast] Error 2
+
+
+Determining if the CXX compiler has sstream failed with the following output:
+Change Dir: /home/jose/Tesis/MyThesis/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec1426654268/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1426654268.dir/build.make CMakeFiles/cmTryCompileExec1426654268.dir/build
+make[1]: Entering directory '/home/jose/Tesis/MyThesis/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/jose/Tesis/MyThesis/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1426654268.dir/TestForSSTREAM.cxx.o
+/usr/bin/c++    -O3 -DNDEBUG -std=c++11 -lutil -lboost_iostreams -lboost_system -lboost_filesystem -pthread     -o CMakeFiles/cmTryCompileExec1426654268.dir/TestForSSTREAM.cxx.o -c /usr/share/cmake-3.0/Modules/TestForSSTREAM.cxx
+Linking CXX executable cmTryCompileExec1426654268
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1426654268.dir/link.txt --verbose=1
+/usr/bin/c++   -O3 -DNDEBUG -std=c++11 -lutil -lboost_iostreams -lboost_system -lboost_filesystem -pthread      CMakeFiles/cmTryCompileExec1426654268.dir/TestForSSTREAM.cxx.o  -o cmTryCompileExec1426654268 -rdynamic 
+/usr/bin/ld: cannot find -lboost_iostreams
+/usr/bin/ld: cannot find -lboost_system
+/usr/bin/ld: cannot find -lboost_filesystem
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTryCompileExec1426654268.dir/build.make:88: recipe for target 'cmTryCompileExec1426654268' failed
+make[1]: Leaving directory '/home/jose/Tesis/MyThesis/build/CMakeFiles/CMakeTmp'
+make[1]: *** [cmTryCompileExec1426654268] Error 1
+Makefile:118: recipe for target 'cmTryCompileExec1426654268/fast' failed
+make: *** [cmTryCompileExec1426654268/fast] Error 2
+
+

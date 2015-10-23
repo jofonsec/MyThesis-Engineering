@@ -1,0 +1,12 @@
+### GENERAL ########################################################################
+ --help=0                                 # -h : Prints this message
+ --stopOnUnknownParam=1                   # Stop if unkown param entered
+
+### PARAMETROS ESCENARIO ###########################################################
+ --ValorMinimo=0                          # -M : Delimitacion area de trabajo
+ --ValorMaximo=40                         # -S : Delimitacion area de trabajo
+ --Anclas=20                              # -A : Numero de nodos anclas
+ --Nodos=200                              # -N : Total de nodos
+ --Radio=5                                # -R : Radio de comunicacion
+ --Semilla=84                             # -E : Semilla para escenarios aleatorios
+

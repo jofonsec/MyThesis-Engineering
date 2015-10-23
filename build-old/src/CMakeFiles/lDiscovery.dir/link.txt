@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../lib/liblDiscovery.a  CMakeFiles/lDiscovery.dir/localizacionEval.cpp.o CMakeFiles/lDiscovery.dir/localizacionEvalPenal.cpp.o CMakeFiles/lDiscovery.dir/escenario.cpp.o CMakeFiles/lDiscovery.dir/individuoCruza.cpp.o CMakeFiles/lDiscovery.dir/individuoMutacion1.cpp.o CMakeFiles/lDiscovery.dir/GnuplotMonitor.cpp.o CMakeFiles/lDiscovery.dir/graphError.cpp.o
+/usr/bin/ranlib ../lib/liblDiscovery.a

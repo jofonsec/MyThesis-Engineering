@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG -std=c++11 -lutil -lboost_iostreams -lboost_system -lboost_filesystem -pthread    CMakeFiles/AGisland-4islas.dir/AGisland.cpp.o  -o AGisland-4islas -rdynamic /home/jose/Tesis/paradiseo/build/lib/libeoutils.a /home/jose/Tesis/paradiseo/build/lib/libeo.a /home/jose/Tesis/paradiseo/build/lib/libsmp.a ../lib/liblDiscovery.a 

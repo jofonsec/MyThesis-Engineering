@@ -1,0 +1,13 @@
+####################################################################################
+#Permite Generar las graficas de Error
+### GENERAL ########################################################################
+ --help=0                                 # -h : Prints this message
+ --stopOnUnknownParam=1                   # Stop if unkown param entered
+
+### Graficar - Error ###############################################################
+ --filename=generacion                    # -o : Ingresar el nombre general del archivo .sav
+ --ValorMaximo=40                         # -S : Delimitacion area de trabajo
+ --Anclas=10                              # -A : Numero de nodos anclas
+ --Nodos=100                              # -N : Total de nodos
+ --setGeneracion=3000                     # -T : Cada cuantas generaciones se guarda la poblacion
+ --MaxGen=30000                           # -G : Numero maximo de generaciones

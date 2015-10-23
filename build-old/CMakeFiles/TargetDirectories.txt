@@ -1,0 +1,9 @@
+/home/jose/Tesis/MyThesis/build/application/CMakeFiles/AGMEsmp.dir
+/home/jose/Tesis/MyThesis/build/application/CMakeFiles/AGS.dir
+/home/jose/Tesis/MyThesis/build/application/CMakeFiles/AGisland-2islas.dir
+/home/jose/Tesis/MyThesis/build/application/CMakeFiles/AGisland-4islas.dir
+/home/jose/Tesis/MyThesis/build/doc/CMakeFiles/doc.dir
+/home/jose/Tesis/MyThesis/build/application/CMakeFiles/generadorES.dir
+/home/jose/Tesis/MyThesis/build/application/CMakeFiles/graficarError.dir
+/home/jose/Tesis/MyThesis/build/datos/CMakeFiles/install.dir
+/home/jose/Tesis/MyThesis/build/src/CMakeFiles/lDiscovery.dir
